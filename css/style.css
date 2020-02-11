@@ -1,0 +1,23 @@
+.myRow{
+    border: 3px solid green;
+    padding: 5px;
+}
+.myCols{
+    border: 3px solid blueviolet;
+}
+.myContainer{
+    background-color: rgb(167, 207, 194);
+}
+#topheader {
+     border-bottom: 1px solid silver;
+}
+#topheader a{
+    color: black;
+    font-weight: 600;
+    font-size: 0.89rem;
+}
+.container-fluid
+{
+    padding-left: 0;
+    padding-right: 0;
+}
