@@ -29,9 +29,7 @@ nav ul li a {
 .full-footer
 {
     background-color: darkblue;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
+    
 }
 
 .top-footer p{
@@ -46,11 +44,11 @@ nav ul li a {
     color: wheat;
     
 }
-.bbottom-footer{
+.bottom-footer{
     background-color: #19232e;
 }
 .bottom-footer p{
     color:white;
 
 }
-/* START FOOTER*/
+/* END FOOTER*/
