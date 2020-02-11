@@ -21,3 +21,36 @@
     padding-left: 0;
     padding-right: 0;
 }
+nav ul li a {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+/* START FOOTER*/
+.full-footer
+{
+    background-color: darkblue;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.top-footer p{
+    color: wheat;
+}
+.top-footer a{
+    color: wheat;
+    font-weight: 600px;
+   
+}
+.top-footer h3{
+    color: wheat;
+    
+}
+.bbottom-footer{
+    background-color: #19232e;
+}
+.bottom-footer p{
+    color:white;
+
+}
+/* START FOOTER*/
