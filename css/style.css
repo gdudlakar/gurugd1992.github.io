@@ -47,3 +47,13 @@ nav ul li a {
     color:white;
 }
 /* END FOOTER*/ 
+/* START :HERO SECTION*/
+.top-hero-section{
+    background-color: rgb(73, 133, 93);
+    color: white;
+
+} 
+.ForImg{
+    width: 200px;
+}
+/* END :HERO SECTION*/
