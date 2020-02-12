@@ -56,4 +56,8 @@ nav ul li a {
 .ForImg{
     width: 200px;
 }
+.requirement-section{
+    background-color: rgb(167, 207, 194);
+    color:white;
+}
 /* END :HERO SECTION*/
