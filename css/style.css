@@ -9,7 +9,7 @@
     background-color: rgb(167, 207, 194);
 }
 #topheader {
-     border-bottom: 1px solid silver;
+    border-bottom: 1px solid silver;
 }
 #topheader a{
     color: black;
@@ -28,27 +28,22 @@ nav ul li a {
 /* START FOOTER*/
 .full-footer
 {
-    background-color: darkblue;
-    
+    background-color: darkblue;    
 }
-
 .top-footer p{
     color: wheat;
 }
 .top-footer a{
     color: wheat;
-    font-weight: 600px;
-   
+    font-weight: 600px;   
 }
 .top-footer h3{
-    color: wheat;
-    
+    color: wheat;    
 }
 .bottom-footer{
     background-color: #19232e;
 }
 .bottom-footer p{
     color:white;
-
 }
-/* END FOOTER*/
+/* END FOOTER*/ 
