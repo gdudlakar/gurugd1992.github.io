@@ -60,4 +60,51 @@ nav ul li a {
     background-color: rgb(167, 207, 194);
     color:white;
 }
+/* START : Home page 4rd newsletter section */
+.home-newsletter{
+    background-color: #004d80;
+    color: white;
+  }
+  .home-newsletter .form-control {
+      height: 50px;
+      border-color: transparent;
+      border-radius: 20px 0 0 20px;
+  }
+  .home-newsletter .btn {
+      min-height: 50px;
+      border-radius: 0 20px 20px 0;
+      background: #be0280;
+      color: #fff;
+  }
+  
+  /* END : Home page 4rd newsletter section */
+  
+  
+  .clients-section{
+    background-color: #f0f0f0;
+  }
 /* END :HERO SECTION*/
+.clients-section{
+    background-color: #f0f0f0;
+  }
+  
+  /* END-------------------- of home page ---------------------- */
+  
+  /* START-------------------- of About page ---------------------- */
+  .breadcrumbs-section{
+    background-color: #e9ecef;
+  }
+  /* END-------------------- of home page ---------------------- */
+
+/* START-------------------- of About page ---------------------- */
+.breadcrumbs-section{
+    background-color: #e9ecef;
+  }
+  /* END-------------------- of About page ---------------------- */
+  
+  /* START-------------------- of Portfolio ---------------------- */
+  /* START-------------------- of Contact Us Page ---------------------- */
+.address p{
+    font-weight: 600;
+  
+  }
